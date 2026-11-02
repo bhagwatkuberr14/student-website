@@ -1,4 +1,4 @@
-var API_URL = https://script.google.com/macros/s/AKfycbwcdqWZTrVGzd2l_8O_kxfi94sAfkICkMjkPRfmuF0oHkypFSojSinF6MYKVbqLDplq/exec;
+var API_URL = 'https://script.google.com/macros/s/AKfycbwcdqWZTrVGzd2l_8O_kxfi94sAfkICkMjkPRfmuF0oHkypFSojSinF6MYKVbqLDplq/exec';
 
 var KEYS = [
     'srNo',
